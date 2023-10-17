@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114057649469",
+    "project_id": "ngoapp-ea3eb",
+    "storage_bucket": "ngoapp-ea3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114057649469:android:d682ba40e274919101b954",
+        "android_client_info": {
+          "package_name": "com.example.ngoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRm8XXjXUX2rwpOYCf4NEecg1quud2z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
